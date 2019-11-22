@@ -1,0 +1,17 @@
+----------- Carpeta vuespa--------------------
+npm install vue
+npm run serve   -----------> genera la pagina web
+------------ Carpeta princial-------------------
+dotnet restore
+dotnet build
+dotnet run
+
+------------Git---------------
+git clone $LINK -----------------------> clona el repositorio
+git add -A  ---------------> actualiza mi local
+git status --------------> muestralo que hay en la master
+git commit -m "Comentario" -----------------> Commit 
+git pull ---------------> descarga cambios que se han hecho al repositorio
+git push ------------> lo sube a la master
+
+https://github.com/loader0/IngWeb/commits/master
